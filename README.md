@@ -1,7 +1,7 @@
 ## Customer Churn Analysis Project
 ## Project Overview
 
-This project analyzes customer churn using a telecom dataset. The main objective is to identify factors influencing customer churn and to build a predictive model that can classify customers as likely to churn or not. The analysis is performed in a Jupyter Notebook and includes data exploration, preprocessing, and modeling steps. Note: The model is not deployed as an application or API; all work is contained within the notebook.
+This project analyzes customer churn using a telecom dataset. The main objective is to identify factors influencing customer churn and to build a predictive model that can classify customers as likely to churn or not. The analysis is performed in a Jupyter Notebook and includes data exploration, preprocessing, and modeling steps. 
 
 ## Dataset
 
