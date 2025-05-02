@@ -1,9 +1,9 @@
-Customer Churn Analysis Project
-Project Overview
+## Customer Churn Analysis Project
+## Project Overview
 
 This project analyzes customer churn using a telecom dataset. The main objective is to identify factors influencing customer churn and to build a predictive model that can classify customers as likely to churn or not. The analysis is performed in a Jupyter Notebook and includes data exploration, preprocessing, and modeling steps. Note: The model is not deployed as an application or API; all work is contained within the notebook.
 
-Dataset
+## Dataset
 
 Source: /content/churn-bigml-80 (1).csv
 
@@ -13,7 +13,7 @@ Columns: 20
 
 Target Variable: Churn (0 = No churn, 1 = Churn)
 
-Key Features:
+## Key Features:
 
 State, Account length, Area code
 
@@ -35,13 +35,12 @@ Modeling: Trains machine learning models to predict churn (details of the models
 
 Visualization: Uses matplotlib and seaborn for data visualization.
 
-Requirements
+## Requirements
 
 Python 3.x
+google colab
 
-Jupyter Notebook
-
-Libraries:
+## Libraries:
 
 numpy
 
@@ -51,23 +50,19 @@ matplotlib
 
 seaborn
 
-Install dependencies with:
-
-bash
+## Install dependencies with:
 pip install numpy pandas matplotlib seaborn
 Usage
 
-Clone or download the repository containing the notebook and dataset.
+## Clone or download the repository containing the notebook and dataset.
 
-Open customer_churn.ipynb in Jupyter Notebook.
+Open customer_churn.ipynb in google colab.
 
 Run all cells sequentially to perform the analysis.
 
-Note: The model is not deployed as a web or REST API. All results are viewable within the notebook.
 
-File Structure
+## File Structure
 
-text
 customer_churn/
 ├── customer_churn.ipynb
 └── churn-bigml-80 (1).csv
